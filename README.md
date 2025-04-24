@@ -6,8 +6,8 @@ If you find this repository useful, please consider  **giving us a star** 🌟
 ## Benchmark
 
 ### 2024
-- [[**EmbodiedOcc**](https://arxiv.org/pdf/2412.04380.pdf)]  EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding **`arxiv 2024.12`** [[Code](https://github.com/YkiWu/EmbodiedOcc)]![GitHub Repo stars](https://img.shields.io/github/stars/YkiWu/EmbodiedOcc)
-  
-- [[**EmbodiedScan**](https://arxiv.org/pdf/2312.16170.pdf)] EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI **`CVPR 2024`** [[Code](https://github.com/OpenRobotLab/EmbodiedScan)]![GitHub Repo stars](https://img.shields.io/github/stars/OpenRobotLab/EmbodiedScan)
+- [[**EmbodiedOcc**](https://arxiv.org/pdf/2412.04380.pdf)] **`arxiv 2024.12`** EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding [[Code](https://github.com/YkiWu/EmbodiedOcc)]![GitHub Repo stars](https://img.shields.io/github/stars/YkiWu/EmbodiedOcc)
 
-- [[**Occ-ScanNet**](https://arxiv.org/pdf/2407.11730.pdf)] Monocular Occupancy Prediction for Scalable Indoor Scenes **`ECCV 2024`** [[Code](https://github.com/hongxiaoy/ISO)]![GitHub Repo stars](https://img.shields.io/github/stars/hongxiaoy/ISO)
+- [[**Occ-ScanNet**](https://arxiv.org/pdf/2407.11730.pdf)] **`ECCV 2024`** Monocular Occupancy Prediction for Scalable Indoor Scenes [[Code](https://github.com/hongxiaoy/ISO)]![GitHub Repo stars](https://img.shields.io/github/stars/hongxiaoy/ISO)
+
+- [[**EmbodiedScan**](https://arxiv.org/pdf/2312.16170.pdf)] **`CVPR 2024`** EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI [[Code](https://github.com/OpenRobotLab/EmbodiedScan)]![GitHub Repo stars](https://img.shields.io/github/stars/OpenRobotLab/EmbodiedScan)
