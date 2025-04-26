@@ -4,7 +4,7 @@ This repo collects benchmark, papers, and codes about embodied occupancy network
 If you find this repository useful, please consider  **giving us a star** 🌟
 
 ## Benchmark
-### Occupancy Networks
+### 2024
 - EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding <br>
 **`arxiv24.12`** [[Paper]](https://arxiv.org/pdf/2412.04380.pdf) [[Code]](https://github.com/YkiWu/EmbodiedOcc) <br>
   
@@ -15,14 +15,14 @@ If you find this repository useful, please consider  **giving us a star** 🌟
 **`CVPR 2024`** [[Paper]](https://arxiv.org/pdf/2312.16170.pdf) [[Code]](https://github.com/OpenRobotLab/EmbodiedScan) <br>
 
 ## Papers
-### Occupancy Networks
-
+### 2025
 - RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots <br>
 **`arxiv25.04`** [[Paper]](https://arxiv.org/pdf/2504.14604.pdf) <br>
 
 - EmbodiedOcc++: Boosting Embodied 3D Occupancy Prediction with Plane Regularization and Uncertainty Sampler <br>
 **`arxiv25.04`** [[Paper]](https://arxiv.org/pdf/2504.09540.pdf) <br>
 
+### 2024
 - EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding <br>
 **`arxiv24.12`** [[Paper]](https://arxiv.org/pdf/2412.04380.pdf) [[Code]](https://github.com/YkiWu/EmbodiedOcc) <br>
 
