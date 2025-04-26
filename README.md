@@ -5,14 +5,14 @@ If you find this repository useful, please consider  **giving us a star** 🌟
 
 ## Benchmark
 ### 2024
-- [[**EmbodiedOcc**](https://arxiv.org/pdf/2412.04380.pdf)] EmbodiedOcc: Embodied 3D Occupancy Prediction  for Vision-based Online Scene Understanding <br>
-**`arxiv 2024.12`** [[Code](https://github.com/YkiWu/EmbodiedOcc)]![GitHub Repo stars](https://img.shields.io/github/stars/YkiWu/EmbodiedOcc) <br>
+- EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding <br>
+**`arxiv 2024.12`** [[Paper]](https://arxiv.org/pdf/2412.04380.pdf) [[Code]](https://github.com/YkiWu/EmbodiedOcc) <br>
   
-- [[**Occ-ScanNet**](https://arxiv.org/pdf/2407.11730.pdf)] Monocular Occupancy Prediction for Scalable Indoor Scenes <br>
-**`ECCV 2024`** [[Code](https://github.com/hongxiaoy/ISO)]![GitHub Repo stars](https://img.shields.io/github/stars/hongxiaoy/ISO) <br>
+- Monocular Occupancy Prediction for Scalable Indoor Scenes <br>
+**`ECCV 2024`** [[Paper]](https://arxiv.org/pdf/2407.11730.pdf) [[Code]](https://github.com/hongxiaoy/ISO) <br>
   
-- [[**EmbodiedScan**](https://arxiv.org/pdf/2312.16170.pdf)] EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI <br>
-**`CVPR 2024`** [[Code](https://github.com/OpenRobotLab/EmbodiedScan)]![GitHub Repo stars](https://img.shields.io/github/stars/OpenRobotLab/EmbodiedScan) <br>
+- EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI <br>
+**`CVPR 2024`** [[Paper]](https://arxiv.org/pdf/2312.16170.pdf) [[Code]](https://github.com/OpenRobotLab/EmbodiedScan) <br>
 
 ## Papers
 ### 2024
