@@ -5,7 +5,7 @@ If you find this repository useful, please consider  **giving us a star** 🌟
 
 ## Benchmark
 ### 2024
-- **<a href="https://arxiv.org/pdf/2412.04380.pdf" style="text-decoration: none;">EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding</a>** <br>
+- **<a href="https://arxiv.org/pdf/2412.04380.pdf" style="text-decoration: none !important;;">EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding</a>** <br>
 **`arxiv24.12`** [[Code]](https://github.com/YkiWu/EmbodiedOcc) <br>
   
 - **<a href="https://arxiv.org/pdf/2407.11730.pdf" style="text-decoration: none;">Monocular Occupancy Prediction for Scalable Indoor Scenes</a>** <br>
