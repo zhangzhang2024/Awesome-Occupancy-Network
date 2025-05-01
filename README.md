@@ -16,7 +16,7 @@ If you find this repository useful, please consider  **giving us a star** 🌟
 
 ## Papers
 ### 2025
-- **<a href="(https://arxiv.org/pdf/2504.14604.pdf" style="text-decoration: none;">RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots</a>** <br>
+- **<a href="https://arxiv.org/pdf/2504.14604.pdf" style="text-decoration: none;">RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots</a>** <br>
 **`arxiv25.04`** <br>
 
 - **<a href="https://arxiv.org/pdf/2504.09540.pdf" style="text-decoration: none;">EmbodiedOcc++: Boosting Embodied 3D Occupancy Prediction with Plane Regularization and Uncertainty Sampler</a>** <br>
@@ -24,7 +24,7 @@ If you find this repository useful, please consider  **giving us a star** 🌟
 
 ### 2024
 - **<a href="https://arxiv.org/pdf/2412.04380.pdf" style="text-decoration: none;">EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding</a>** <br>
-**`arxiv24.12`** [[Code]](https://github.com/YkiWu/EmbodiedOcc) <br>
+**`arxiv24.12`** [[Code](https://github.com/YkiWu/EmbodiedOcc)] <br>
 
 - **<a href="https://arxiv.org/pdf/2407.11730.pdf" style="text-decoration: none;">Monocular Occupancy Prediction for Scalable Indoor Scenes</a>** <br>
 **`ECCV 2024`** [[Code]](https://github.com/hongxiaoy/ISO) <br>
