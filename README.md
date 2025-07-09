@@ -16,6 +16,9 @@ If you find this repository useful, please consider  **giving us a star** 🌟
 
 ## Papers
 ### 2025
+- _**YouTube-Occ: Learning Indoor 3D Semantic Occupancy Prediction from YouTube Videos**_ <br>
+**`arxiv25.06`** [[Paper]](https://arxiv.org/pdf/2506.18266.pdf) <br>
+
 - _**RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots**_ <br>
 **`arxiv25.04`** [[Paper]](https://arxiv.org/pdf/2504.14604.pdf) <br>
 
